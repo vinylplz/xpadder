@@ -1,0 +1,86 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.05.01
+
+[Profile Settings]
+
+[Set Settings]
+Set1StickDeadZones=77,75
+Set1DPadMode=EightWay
+Set2DPadMode=EightWay
+Set2Stick1Mode=Vertical
+Set2Stick2Mode=Vertical
+
+[Assignments]
+Set1Button1Slots=Right Mouse Button (2)
+Set1Button2Slots=Tab
+Set1Button3Slots=F
+Set1Button4Slots=Space
+Set1Button5Slots=Left Mouse Button (1)
+Set1Button6Slots=C
+Set1Button7Slots=T
+Set1Button8Slots=Escape
+Set1Button9Slots=Left Control
+Set1Button10Slots=Middle Mouse Button (3)
+Set1DPadUpSlots=1
+Set1DPadRightSlots=3
+Set1DPadDownSlots=5
+Set1DPadLeftSlots=7
+Set1DPadUpRightSlots=2
+Set1DPadDownRightSlots=4
+Set1DPadDownLeftSlots=6
+Set1DPadUpLeftSlots=8
+Set1Stick1UpSlots=W
+Set1Stick1UpTurboRate=2
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=60
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=80
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=60
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=80
+Set1TriggerLeftSetSelect=1
+Set1TriggerRightSlots=Left Shift
+Set2Button1Slots=Enter
+Set2Button2Slots=Alt,Tab
+Set2Button5Slots=Left Mouse Button (1)
+Set2Button6Slots=C
+Set2Button8Slots=Escape
+Set2DPadUpSlots=1
+Set2DPadRightSlots=3
+Set2DPadDownSlots=5
+Set2DPadLeftSlots=7
+Set2DPadUpRightSlots=2
+Set2DPadDownRightSlots=4
+Set2DPadDownLeftSlots=6
+Set2DPadUpLeftSlots=8
+Set2Stick1UpSlots=Arrow Up
+Set2Stick1UpTurbo=1
+Set2Stick1UpTurboRate=20
+Set2Stick1UpMouseSpeed=32
+Set2Stick1RightSlots=Arrow Right
+Set2Stick1RightMouseSpeed=32
+Set2Stick1DownSlots=Arrow Down
+Set2Stick1DownTurbo=1
+Set2Stick1DownTurboRate=20
+Set2Stick1DownMouseSpeed=32
+Set2Stick1LeftSlots=Arrow Left
+Set2Stick1LeftMouseSpeed=32
+Set2Stick2UpSlots=Arrow Up
+Set2Stick2UpTurbo=1
+Set2Stick2UpTurboRate=20
+Set2Stick2UpMouseSpeed=60
+Set2Stick2RightSlots=Arrow Right
+Set2Stick2RightMouseSpeed=80
+Set2Stick2DownSlots=Arrow Down
+Set2Stick2DownTurbo=1
+Set2Stick2DownTurboRate=20
+Set2Stick2DownMouseSpeed=60
+Set2Stick2LeftSlots=Arrow Left
+Set2Stick2LeftMouseSpeed=80
+Set2TriggerLeftSetSelect=0
+Set2TriggerRightSlots=Left Shift

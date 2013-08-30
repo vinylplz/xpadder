@@ -1,0 +1,68 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button1Slots=1
+Set1Button2Slots=2
+Set1Button3Slots=3
+Set1Button4Slots=4
+Set1Button5Slots=E
+Set1Button5Turbo=1
+Set1Button6Slots=Left Mouse Button (1)
+Set1Button7Slots=M
+Set1Button8Slots=Escape
+Set1Button9Slots=Middle Mouse Button (3)
+Set1Button10Slots=Left Control,Space
+Set1DPadUpSlots=F
+Set1DPadRightSlots=T
+Set1DPadDownSlots=Q
+Set1DPadLeftSetSelect=1
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=32
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=32
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=32
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=32
+Set1TriggerLeftSlots=R
+Set1TriggerRightSlots=Right Mouse Button (2)
+Set2Button1Slots=B
+Set2Button2Slots=C
+Set2Button3Slots=X
+Set2Button5Slots=Tab,PAUSE 0.01s,A,PAUSE 0.01s,Tab
+Set2Button6Slots=Tab,PAUSE 0.01s,D,PAUSE 0.01s,Tab
+Set2Button7Slots=M
+Set2Button8Slots=Tab
+Set2Button9Slots=Middle Mouse Button (3)
+Set2Button10Slots=Left Control,Space
+Set2DPadUpSlots=G
+Set2DPadDownSlots=Q
+Set2DPadLeftSetSelect=0
+Set2Stick1UpSlots=W
+Set2Stick1RightSlots=D
+Set2Stick1DownSlots=S
+Set2Stick1LeftSlots=A
+Set2Stick2UpSlots=Mouse Move Up
+Set2Stick2UpMouseSpeed=32
+Set2Stick2RightSlots=Mouse Move Right
+Set2Stick2RightMouseSpeed=32
+Set2Stick2DownSlots=Mouse Move Down
+Set2Stick2DownMouseSpeed=32
+Set2Stick2LeftSlots=Mouse Move Left
+Set2Stick2LeftMouseSpeed=32
+Set2TriggerLeftSlots=Mouse Wheel Down
+Set2TriggerLeftTurbo=1
+Set2TriggerLeftTurboRate=7
+Set2TriggerRightSlots=Mouse Wheel Up
+Set2TriggerRightTurbo=1
+Set2TriggerRightTurboRate=2

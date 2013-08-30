@@ -1,0 +1,32 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.05.01
+
+[Profile Settings]
+
+[Set Settings]
+Set1Stick1Mode=FourWay
+
+[Assignments]
+Set1Button1Slots=Left Control
+Set1Button2Slots=Left Shift
+Set1Button3Slots=Left Control,Arrow Down
+Set1Button4Slots=P
+Set1Button5Slots=Left Control,Arrow Left
+Set1Button6Slots=Left Control,Arrow Right
+Set1Button7Slots=Alt,Tab
+Set1Button8Slots=Escape
+Set1DPadUpSlots=Arrow Up
+Set1DPadRightSlots=Arrow Right
+Set1DPadDownSlots=Arrow Down
+Set1DPadLeftSlots=Arrow Left
+Set1Stick1UpSlots=G
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1DownSlots=Arrow Down
+Set1Stick1LeftSlots=Arrow Left
+Set1Stick2UpSlots=Arrow Up
+Set1Stick2RightSlots=Arrow Right
+Set1Stick2DownSlots=Arrow Down
+Set1Stick2LeftSlots=Arrow Left
+Set1TriggerLeftSlots=Left Shift
+Set1TriggerRightSlots=Left Control
